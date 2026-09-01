@@ -2098,4 +2098,10 @@ export const tr: Record<TKey, string> = {
   "dash.visionTimeout": "Zaman aşımı",
   "dash.visionTimeoutInvalid": "{min} ile {max} milisaniye arasında bir tam sayı girin.",
   "dash.visionAdvancedPopover": "Gelişmiş görsel ayarları",
+  "sub.fallbackLabel": "Alt ajan yedek zinciri",
+  "sub.fallbackHint": "Alt ajan modeli kullanılamadığında veya başarısız olduğunda sırayla denenecek modeller.",
+  "sub.fallbackAdd": "Yedek model ekle…",
+  "sub.fallbackPoll": "Kullanılabilirlik kontrol aralığı",
+  "sub.fallbackSaved": "Alt ajan yedek ayarları kaydedildi.",
+  "sub.fallbackSaveFailed": "Yedek ayarlar kaydedilemedi",
 };

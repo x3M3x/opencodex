@@ -2097,4 +2097,10 @@ export const ko: Record<TKey, string> = {
   "dash.visionTimeout": "제한 시간",
   "dash.visionTimeoutInvalid": "{min}에서 {max} 밀리초 사이의 정수를 입력하세요.",
   "dash.visionAdvancedPopover": "고급 비전 설정",
+  "sub.fallbackLabel": "서브에이전트 폴백 체인",
+  "sub.fallbackHint": "서브에이전트 모델을 사용할 수 없거나 실패할 때 순서대로 시도할 모델입니다.",
+  "sub.fallbackAdd": "폴백 모델 추가…",
+  "sub.fallbackPoll": "가용성 확인 간격",
+  "sub.fallbackSaved": "서브에이전트 폴백 설정을 저장했습니다.",
+  "sub.fallbackSaveFailed": "폴백 설정을 저장하지 못했습니다",
 };

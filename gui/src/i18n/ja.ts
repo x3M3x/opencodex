@@ -2096,4 +2096,10 @@ export const ja: Record<TKey, string> = {
   "dash.visionTimeout": "タイムアウト",
   "dash.visionTimeoutInvalid": "{min} から {max} ミリ秒の整数を入力してください。",
   "dash.visionAdvancedPopover": "詳細なビジョン設定",
+  "sub.fallbackLabel": "サブエージェントのフォールバックチェーン",
+  "sub.fallbackHint": "サブエージェントモデルが利用できないか失敗した場合に順番に試すモデルです。",
+  "sub.fallbackAdd": "フォールバックモデルを追加…",
+  "sub.fallbackPoll": "利用可能性チェック間隔",
+  "sub.fallbackSaved": "サブエージェントのフォールバック設定を保存しました。",
+  "sub.fallbackSaveFailed": "フォールバック設定の保存に失敗しました",
 };

@@ -2075,4 +2075,10 @@ export const de: Record<TKey, string> = {
   "dash.visionTimeout": "Timeout",
   "dash.visionTimeoutInvalid": "Geben Sie eine ganze Zahl von {min} bis {max} Millisekunden ein.",
   "dash.visionAdvancedPopover": "Erweiterte Vision-Einstellungen",
+  "sub.fallbackLabel": "Fallback-Kette für Sub-Agenten",
+  "sub.fallbackHint": "Geordnete Modelle, die versucht werden, wenn ein Sub-Agent-Modell nicht verfügbar ist oder fehlschlägt.",
+  "sub.fallbackAdd": "Fallback-Modell hinzufügen…",
+  "sub.fallbackPoll": "Intervall der Verfügbarkeitsprüfung",
+  "sub.fallbackSaved": "Fallback-Einstellungen für Sub-Agenten gespeichert.",
+  "sub.fallbackSaveFailed": "Fallback-Einstellungen konnten nicht gespeichert werden",
 };
